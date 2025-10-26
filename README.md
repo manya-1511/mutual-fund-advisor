@@ -9,7 +9,7 @@ Forget generic star ratings. $\text{FundFocus}$ AI offers **actionable intellige
 ### 1. Personalized Risk Scoring & Recommendations
 
 * **User Risk Input:** Users answer a brief questionnaire to define their **Risk Appetite **.
-* **Propensity Model (ML):** The system uses a trained $\text{Scikit-learn}$ classification model to score the **suitability** of every selected fund against the user's $\text{Risk\_Score}$.
+* **Propensity Model (ML):** The system uses a trained $\text{Scikit-learn}$ classification model to score the **suitability** of every selected fund against the user's Risk score.
 * **Actionable Insights:** Provides a clear recommendation on **fund suitability** (e.g., "Highly Suitable for your Moderate Risk Profile").
 
 ### 2. Comprehensive Financial Analysis
